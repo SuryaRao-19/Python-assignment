@@ -1,0 +1,27 @@
+Daily Calorie Tracker Report
+----------------------------
+Dosa and Sambar		400.0
+Maggie Noodles		480.0
+Roti and Butter Chicken		900.0
+----------------------------
+Total:		1780.0
+Average:	593.3333333333334
+You are within your daily calorie limit.
+
+
+
+----------------------------
+Roti and Panner         360.0
+Idli Sambar             240.0
+Rice and Chicken Curry          390.0
+----------------------------
+Total:          990.0
+Average:        330.0
+
+
+----------------------------------------------
+Rice with Chole         500.0
+Chicken Pizza with garlic bread         1000.0
+----------------------------------------------
+Total:          1500.0
+Average:        750.0
